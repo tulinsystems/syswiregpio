@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/leds">
+        <file>images/led-off.png</file>
+        <file>images/led-on.png</file>
+        <file>images/led-disabled.png</file>
+    </qresource>
+    <qresource prefix="/skins">
+        <file>slider-skin/background.svg</file>
+        <file>slider-skin/background_hover.svg</file>
+        <file>slider-skin/knob_off.svg</file>
+        <file>slider-skin/knob_on.svg</file>
+        <file>button-skin/off.svg</file>
+        <file>button-skin/on.svg</file>
+        <file>button-skin-disabled/off.svg</file>
+        <file>button-skin-disabled/on.svg</file>
+    </qresource>
+</RCC>
